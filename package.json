@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "electron-screenshot": "^1.0.5",
-    "image-size": "^0.7.4"
+    "image-size": "^2.0.3"
   }
 }
